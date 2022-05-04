@@ -1,0 +1,17 @@
+.videowrapper img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.article h4 {
+    text-decoration: none;
+    color: lightskyblue;
+}
+article a:link, article a:visited {
+    color: lightskyblue;
+}
+article a:hover, article a:active {
+    color: white;
+}
